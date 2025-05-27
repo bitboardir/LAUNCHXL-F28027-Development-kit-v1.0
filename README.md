@@ -4,11 +4,11 @@ A compact and professional development board based on the **TMS320F28027** micro
 
 ---
 <p align="center">
-  <img src="PCB_2D.PNG" alt="Board Image" width="500">
+  <img src="PCB_2D.PNG" alt="Board Image" width="700">
 </p>
 
 <p align="center">
-  <img src="pic.jpg" alt="Board Image" width="500">
+  <img src="pic.jpg" alt="Board Image" width="700">
 </p>
 ---
 
