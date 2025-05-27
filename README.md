@@ -3,6 +3,14 @@
 A compact and professional development board based on the **TMS320F28027** microcontroller from Texas Instruments’ C2000 family. This board is designed for **real-time control applications** such as **motor control**, **switch-mode power supplies**, **inverters**, and other **industrial automation systems**.
 
 ---
+<p align="center">
+  <img src="PCB_2D.PNG" alt="Board Image" width="500">
+</p>
+
+<p align="center">
+  <img src="pic.jpg" alt="Board Image" width="500">
+</p>
+---
 
 ## ⚙️ Key Features
 
